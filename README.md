@@ -1,2 +1,2 @@
 # ExpertVSADP
-Comparison between an expert fantasy football analyst and the public's ADP.
+Comparing industry titan Mike Clay's ADP to the publics Underdog ADP.
